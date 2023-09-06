@@ -1,4 +1,4 @@
-# vue-h5-template
+# vue2-H5-VantUi
 
 基于 vue-cli4.0 + webpack 4 + vant ui + sass+ vm 适配方案+axios 封装，构建手机端模板脚手架
 
@@ -19,7 +19,7 @@
 
 git clone https://github.com/crush2020/vue2-H5-VantUi.git
 
-cd vue-h5-template
+cd vue2-H5-VantUi
 
 npm install
 
@@ -113,7 +113,7 @@ module.exports = config
 ```javascript
 // 本地环境配置
 module.exports = {
-  title: 'vue-h5-template',
+  title: 'vue2-H5-VantUi',
   baseUrl: 'http://localhost:9018', // 项目地址
   baseApi: 'https://test.xxx.com/api', // 本地api请求地址
   APPID: 'xxx',
@@ -247,7 +247,7 @@ Vue.use(Tabbar).use(TabbarItem)
 
 #### 目录结构
 
-vue-h5-template 所有全局样式都在 `@/src/assets/css` 目录下设置
+vue2-H5-VantUi 所有全局样式都在 `@/src/assets/css` 目录下设置
 
 ```bash
 ├── assets
