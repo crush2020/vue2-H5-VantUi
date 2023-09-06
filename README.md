@@ -1,6 +1,8 @@
 # vue2-H5-VantUi
 
-基于 vue-cli4.0 + webpack 4 + vant ui + sass+ vm 适配方案+axios 封装，构建手机端模板脚手架
+基于 vue-cli4.0 + webpack 4 + vant ui2 + sass+ vm 适配方案+axios 封装，构建手机端模板脚手架
+
+[vue3 请参考这里](https://github.com/crush2020/vue3-H5-VantUI4)
 
 <p>
   <img src="./static/demo.png" width="320" style="display:inline;">
