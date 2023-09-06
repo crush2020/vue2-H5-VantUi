@@ -17,7 +17,7 @@
 
 ```bash
 
-git clone https://github.com/sunniejs/vue-h5-template.git
+git clone https://github.com/crush2020/vue2-H5-VantUi.git
 
 cd vue-h5-template
 
